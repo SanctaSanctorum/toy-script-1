@@ -2,6 +2,10 @@ body {
   background: lightyellow;
   font: 18px Arial, sans-serif;
 }
+n1 {
+    align = "center";
+    margin: 20px 30px;
+}
 h1 {
   color: orange;
 }
