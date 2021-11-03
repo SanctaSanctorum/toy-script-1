@@ -1,2 +1,2 @@
-for a in range(0, 2):
-    print("Hello, git!")
+for i in [2,1,5]:
+    print(i)

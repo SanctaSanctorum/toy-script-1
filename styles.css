@@ -1,11 +1,31 @@
 body {
-  background: lightyellow;
-  font: 18px Arial, sans-serif;
+	color: #8f8f8f;
+	font: 12px Tahoma, sans-serif;
+	border-top: 5px solid #7e7e7e;
+	margin: 0;
 }
-n1 {
-    align = "center";
-    margin: 20px 30px;
+input[type="text"] {
+	background-color: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	height: 30px;
+	color: #b2b2b2;
+	padding: 0 10px;
+	vertical-align: top;
 }
-h1 {
-  color: orange;
+.ss {
+    text-align: center;
+    padding: 10px 20px;
+    margin: 10px 30px;
+    border: 1px red solid;
+    background-color: white;
+}
+button {
+	color: #fff;
+	background-color: #29c5e6;
+	border: none;
+	height: 32px;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	margin: 20px 0;
 }
